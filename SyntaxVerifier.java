@@ -1,10 +1,5 @@
 /**
  * Jessica Garcia
- * COSC3127
- * Syntax Verifier
- * May 2025
- * Dr. Townsend
- * 
  * Program reads an entire source file into memory, tokenizes it,
  * then uses recursive descent to verify that the token sequence conforms to
  * the grammar.  It reports if the syntax is valid or invalid
